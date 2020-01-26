@@ -1,0 +1,15 @@
+name: CraftHolograms
+main: xyz.oribuin.craftholos.CraftHolograms
+version: 1.0
+author: Oribuin
+api-version: "1.14"
+description: Crafting item result previews above crafting table.
+website: http://oribuin.xyz/
+depend:
+  - HolographicDisplays
+  - PlaceholderAPI
+
+commands:
+  crafthreload:
+    description: Reload CraftHolograms.
+    usage: /crafthreload
